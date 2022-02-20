@@ -36,15 +36,21 @@ hero_cover_img:      # replace this for changing homepage cover (eg. try cover.j
 
 # Experiences
 author_work_experiences:
-            - company_name: Simform
+            - company_name: Simform Solutions
               company_logo: Simform.png
               company_url: https://simform.com
               designation: Marketing Campaign Manager
               description: Worked on various Digital Marketing Campaigns
               visibility: true
-            - company_name: Hoojook
+            - company_name: Hoojook INC
               company_logo: microsoft.png
               company_url: https://microsoft.com
+              designation: Digital Marketing Executive
+              description: Worked on company website 
+              visibility: true
+              - company_name: GirnarSoft Pvt. Ltd. (Cardekho.com)
+              company_logo: cardekho.png
+              company_url: https://www.cardekho.com/
               designation: Digital Marketing Executive
               description: Worked on company website 
               visibility: true
@@ -59,7 +65,7 @@ author_education_details:
                 visibility: true
 
 # Projects
-author_project_details:
+ <! –– author_project_details:
               - project_thumbnail: gamershub.png
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
@@ -70,7 +76,7 @@ author_project_details:
                 project_description: A Platform built for Hackers and Penetration Testers
                 project_url: https://hack4r.com
                 visibility: true
-
+ ––> 
 # social links
 twitter_username: RakshitSoral
 github_username:  rakshitsoral
