@@ -3,8 +3,9 @@ subtitle: Rakshit Soral
 description: >- # this means to ignore newlines until "baseurl:"
   Rakshit Soral is a Digital Marketing Expert based in Ahmedabad, Gujarat, India.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "/" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
+logo: 'logo.png'
 
 # Navigation
 urls:
@@ -26,17 +27,12 @@ urls:
 
 author_logo: Rakshit Soral.jpg
 author: Rakshit Soral
-author_bio: Hi there, I’m Rakshit Soral 👋
-For more than 4 years now, I have tried multiple-roles in Digital marketing, from SEO to running scalable content marketing campaigns. On this fast and mind-blowing journey, I have switched places, made many friends, learned many things over the years, and I am grateful for that.
-
-At this moment, the journey has brought me to Simform in Ahmedabad, Gujarat where I am associated as a campaign manager. As the part of my work, I launched microsites, ran content-marketing/ paid campaigns, explored a few tactics of promotions and marketing.
-
-With a goal of pushing boundaries in Marketing, I have even worked for some local clients and helped them increase the online visibility of their business.
+author_bio: 
 author_email: "rakshitsoral@gmail.com"
 author_location: India
 author_website_url: "https://rakshitsoral.com"
 typewrite-text: Currently exploring the depth of marketing by experimenting, learning at Simform.
-hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+hero_cover_img: cover.jpeg      # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
@@ -49,8 +45,8 @@ author_work_experiences:
             - company_name: Hoojook
               company_logo: microsoft.png
               company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+              designation: Digital Marketing Executive
+              description: Worked on company website 
               visibility: true
 
 # Education
@@ -76,16 +72,12 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: RakshitSoral
+github_username:  rakshitsoral
+facebook_username: rakshit.soral.3
+linkedin_username: rakshitsoral
+instagram_username: rakshitsoral
+
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
