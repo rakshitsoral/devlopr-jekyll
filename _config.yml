@@ -32,7 +32,7 @@ author_email: "rakshitsoral@gmail.com"
 author_location: India
 author_website_url: "https://rakshitsoral.com"
 typewrite-text: Currently exploring the depth of marketing by experimenting, learning at Simform.
-hero_cover_img: cover.jpeg      # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+hero_cover_img:      # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
@@ -51,10 +51,10 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
+              - college_logo: RTU.jpg
+                college_name: Rajasthan Technical University
+                college_url:  https://www.rtu.ac.in/
+                college_degree: Bachelor of Computer Science & Technology
                 description: Bachelor of Technology
                 visibility: true
 
