@@ -1,7 +1,7 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Rakshit Soral
+subtitle: Rakshit Soral is a Digital Marketer, conversion strategist and seasoned web developer. Read his blog or contact him via Email.
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  I help international clients built promising Digital Marketing strategies.
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
@@ -23,35 +23,40 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
+author_logo: Rakshit Soral.jpg
+author: Rakshit Soral
+author_bio: Rakshit Soral is a Digital Marketer, conversion strategist and seasoned web developer. Read his blog or contact him via Email.
+author_email: "rakshitsoral@gmail.com"
 author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author_website_url: "https://rakshitsoral.com"
+typewrite-text:   I help international clients built promising Digital Marketing strategies.
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: Simform (Oct 2017 to Present)
+              company_logo: Simform.png
+              company_url: https://simform.com
+              designation: Sr. Campaign Manager
+              description: Worked on various Digital Marketing Campaigns
               visibility: true
-            - company_name: Microsoft
+            - company_name: Hoojook INC (April 2016 to Sept 2017)
               company_logo: microsoft.png
               company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+              designation: Digital Marketing Executive
+              description: Worked on various SEO projects
               visibility: true
+            - company_name: GirnarSoft (June 2015 to March 2016)
+              company_logo: cardekho.png
+              company_url: https://www.cardekho.com/
+              designation: Jr. Content Reporter
+              description: Worked on carbay.com and bikedekho.com
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
+              - college_logo: RTU.jpg
+                college_name: Rajasthan Technical University, Kota
+                college_url: https://rtu.ac.in
                 college_degree: CS Engineer
                 description: Bachelor of Technology
                 visibility: true
@@ -70,16 +75,11 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: RakshitSoral
+github_username:  rakshitsoral
+facebook_username: rakshit.soral.3
+linkedin_username: rakshitsoral
+instagram_username: rakshitsoral
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
