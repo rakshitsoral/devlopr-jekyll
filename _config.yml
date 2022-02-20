@@ -1,4 +1,4 @@
-title: Rakshit Soral| Digital Marketing Professional
+title: Rakshit Soral
 subtitle: Rakshit Soral 
 description: >- # this means to ignore newlines until "baseurl:"
   Rakshit Soral is a Digital Marketing Expert based in Ahmedabad, Gujarat, India.
@@ -26,7 +26,12 @@ urls:
 
 author_logo: Rakshit Soral.jpg
 author: Rakshit Soral
-author_bio: Hi, I am Rakshit Soral. An experienced Digital Marketing Professional from Ahmedabad, Gujarat.
+author_bio: Hi there, I’m Rakshit Soral 👋
+For more than 4 years now, I have tried multiple-roles in Digital marketing, from SEO to running scalable content marketing campaigns. On this fast and mind-blowing journey, I have switched places, made many friends, learned many things over the years, and I am grateful for that.
+
+At this moment, the journey has brought me to Simform in Ahmedabad, Gujarat where I am associated as a campaign manager. As the part of my work, I launched microsites, ran content-marketing/ paid campaigns, explored a few tactics of promotions and marketing.
+
+With a goal of pushing boundaries in Marketing, I have even worked for some local clients and helped them increase the online visibility of their business.
 author_email: "rakshitsoral@gmail.com"
 author_location: India
 author_website_url: "https://rakshitsoral.com"
@@ -36,7 +41,7 @@ hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg.
 # Experiences
 author_work_experiences:
             - company_name: Simform
-              company_logo: google.png
+              company_logo: Simform.png
               company_url: https://simform.com
               designation: Marketing Campaign Manager
               description: Worked on various Digital Marketing Campaigns
